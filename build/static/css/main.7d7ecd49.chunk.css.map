@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAEA,OACE,aAAc,CACd,wBAAyB,CACzB,UAAW,CACX,kBAAmB,CACnB,iBACF","file":"main.7d7ecd49.chunk.css","sourcesContent":["\n\n.notif {\n  color: #D8000C;\n  background-color: #FFBABA;\n  margin: 2em;\n  border-style: solid;\n  border-radius: 1px;\n}"]}
